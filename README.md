@@ -24,7 +24,7 @@ And then run the script:
 node <whateverthenamecalled>.js
 ```
 
-# Images taken from the website
+# Images taken from the terminal
 
 ![image](images/image2.png)
 
