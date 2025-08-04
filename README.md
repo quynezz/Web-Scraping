@@ -6,16 +6,16 @@ This is a basic web scraping project using node.js libraries (`puppeteer`, `pupp
 
 - Run these commands to install the required libraries:
 
-```bash
-# Install the required libraries
-npm init -y
-npm install puppeteer puppeteer-core xml2js
-```
-
 - Clone my repository:
 
 ```bash
 git clone https://github.com/quynezz/Web-Scraping.git
+```
+
+```bash
+# Install the required libraries
+npm init -y
+npm install puppeteer puppeteer-core xml2js
 ```
 
 And then run the script:
