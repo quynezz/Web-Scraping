@@ -4,14 +4,13 @@ This is a basic web scraping project using node.js libraries (`puppeteer`, `pupp
 
 # Pre-requisites
 
-- Run these commands to install the required libraries:
-
 - Clone my repository:
 
 ```bash
 git clone https://github.com/quynezz/Web-Scraping.git
 ```
 
+- Run these commands to install the required libraries:
 ```bash
 # Install the required libraries
 npm init -y
